@@ -1,4 +1,4 @@
-##Harbor 0.5.0 deployment: distributed (revision 0)
+## Harbor 0.5.0 deployment: distributed (revision 0)
 
 This version deploys `Harbor` 0.5.0 on a Cattle cluster.
 
