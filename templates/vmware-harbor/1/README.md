@@ -13,4 +13,4 @@ Note that:
 - this catalog entry only supports `http` (`https` access is not supported)
 - because only `http` is supported, the Docker Host pulling/pushing from/to Harbor needs to have the `--insecure-registry` flag properly configured
 
-![](distributed.png)
+![](https://github.com/niyanchun/rancher-catalog-extension/blob/master/templates/vmware-harbor/1/distributed.png)
